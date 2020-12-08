@@ -18,14 +18,14 @@
 </p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=Matheusp-2014@Outlook.com.br" /></a>
+  <a href="mailto:Matheusp-2014@Outlook.com.br" alt="Gmail" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=Matheusp-2014@Outlook.com.br" style="max-width:100%;"/></a>
 
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-oliveira-de-sousa-pereira-2419a3140" /></a>
+  <a href="https://www.linkedin.com/in/matheus-oliveira-de-sousa-pereira-2419a3140" alt="Linkedin" target="_blank">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-oliveira-de-sousa-pereira-2419a3140/" style="max-width:100%;" /></a>
 
-  <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://web.whatsapp.com/send?phone=5547984384086"/></a>
+  <a href="https://web.whatsapp.com/send?phone=5547984384086" alt="WhatsApp" target="_blank">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://web.whatsapp.com/send?phone=5547984384086/" style="max-width:100%;"></a>
 
 </p>  
 
