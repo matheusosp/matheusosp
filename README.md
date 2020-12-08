@@ -2,7 +2,7 @@
 
 
 <p align="left"> 
-  ### Hi there, I'm Matheus 👋
+     Hi there, I'm Matheus 👋
 
   - 🌱 I’m currently learning everything 🤣
   - 👯 I’m looking to collaborate with other content creators
@@ -10,15 +10,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
+  🦄 Linguagens: <strong>JavaScript,Java,Python</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
-</p>
-
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  Connect with me:
 </p>
 
 <p align="left">
@@ -33,11 +29,6 @@
 
 </p>  
 
-### Connect with me:
-
-[<img align="left" alt="Matheus | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
 
 ### Languages and Tools:
 
@@ -56,7 +47,5 @@
 <br />
 <br />
 
-
-[linkedin]: https://www.linkedin.com/in/matheus-oliveira-de-sousa-pereira-2419a3140
 
 
