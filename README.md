@@ -1,4 +1,5 @@
-<img src="https://avatars2.githubusercontent.com/u/58671449?s=460&u=6f03d0bf89f36b856dee99c9106c51d45543b032&v=4" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Matheus">
+
 
 <p align="left"> 
   Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
