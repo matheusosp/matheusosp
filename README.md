@@ -31,31 +31,12 @@
 
 **Languages and Data**
 
-<img height="56" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" alt="Java"/> 
-<img height="48" src="https://cdn.iconscout.com/icon/free/png-512/javascript-23-1174949.png" alt="JavaScript"/> 
-<img height="48" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" alt="TypeScript"/> 
-<img height="48" src="https://cdn.iconscout.com/icon/free/png-512/html-5-1-1175208.png" alt="Html5"/> 
-<img height="48" src="https://cdn.iconscout.com/icon/free/png-512/css3-11-1175239.png" alt="Css3"/> 
-<img height="48" src="https://cdn.iconscout.com/icon/free/png-512/python-2002692-1686972.png" alt="Python"/>
-<img height="48" src="https://cdn.iconscout.com/icon/free/png-512/mysql-4-226026.png" alt="Mysql"/> 
-<img height="48" src="https://cdn.iconscout.com/icon/free/png-512/postgresql-5-569524.png" alt="PostGresql"/> 
+<img height="56" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" alt="Java"/> <img height="48" src="https://cdn.iconscout.com/icon/free/png-512/javascript-23-1174949.png" alt="JavaScript"/> <img height="48" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" alt="TypeScript"/> <img height="48" src="https://cdn.iconscout.com/icon/free/png-512/html-5-1-1175208.png" alt="Html5"/> <img height="48" src="https://cdn.iconscout.com/icon/free/png-512/css3-11-1175239.png" alt="Css3"/> <img height="48" src="https://cdn.iconscout.com/icon/free/png-512/python-2002692-1686972.png" alt="Python"/><img height="48" src="https://cdn.iconscout.com/icon/free/png-512/mysql-4-226026.png" alt="Mysql"/> <img height="48" src="https://cdn.iconscout.com/icon/free/png-512/postgresql-5-569524.png" alt="PostGresql"/> 
 
 
 ### Tools, Libraries, Runtime and Frameworks:
 
-<img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/>
-<img height="48" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" alt="NodeJS"/> 
-<img height="56" src="https://cdn.iconscout.com/icon/free/png-512/logo-1889531-1597591.png" alt="React"/>
-<img height="48" src="https://cdn.iconscout.com/icon/free/png-512/react-3-1175109.png" alt="React Native"/> 
-<img height="48" src="https://cdn.iconscout.com/icon/free/png-512/django-1-282754.png" alt="Django"/>
-<img align="left" alt="Visual Studio Code" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="SQL" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Git" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="48" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/>
-<img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/>
-<img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/>
+<img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/><img height="48" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" alt="NodeJS"/> <img height="56" src="https://cdn.iconscout.com/icon/free/png-512/logo-1889531-1597591.png" alt="React"/><img height="48" src="https://cdn.iconscout.com/icon/free/png-512/react-3-1175109.png" alt="React Native"/> <img height="48" src="https://cdn.iconscout.com/icon/free/png-512/django-1-282754.png" alt="Django"/><img align="left" alt="Visual Studio Code" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /><img align="left" alt="SQL" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /><img align="left" alt="Git" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /><img align="left" alt="GitHub" width="48" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /><img align="left" alt="Terminal" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/>
 
 
 **Utilities**
