@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  🦄 Languages: <strong>JavaScript,Java,Python</strong>
+  🦄 Languages: <strong>JavaScript,Java,Python, C#</strong>
 </p>
 
 <p align="left">
